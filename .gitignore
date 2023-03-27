@@ -1,0 +1,7 @@
+logs/
+result/
+memory_profile.log
+__pycache__/
+gt_trial.ipynb
+*.out
+data/
